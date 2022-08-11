@@ -4,8 +4,8 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['62895336282144', '𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷', true],
-['6282140373458', 'Raxcel-MD ⁴⁰⁴-ﾉ [BOT MD]', true]
+['62821220876725', '𝕭𝖔𝖙 • Andii ༢࿔ྀ', true],
+['62821220876725', '𝕭𝖔𝖙 • Andii ༢࿔ྀﾉ [BOT MD]', true]
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -34,12 +34,12 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
+global.WM = '𝕭𝖔𝖙 • Andii ༢࿔ྀ'
 global.linkgc = 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP'
-global.linkig = 'https://www.instagram.com/the.sad.boy01'
+global.linkig = '.'
 global.deslink = ''
-global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@the.sad.boy01'
+global.titlink = '𝕭𝖔𝖙 • Andii ༢࿔ྀ'
+global.bodlink = '.'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
@@ -50,7 +50,7 @@ global.urlnya = "https://www.instagram.com/the.sad.boy01"
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 895-3362-82144'
+global.phn = '+62 821-2208-76725'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
